@@ -1,0 +1,13 @@
+appdirs==1.4.3
+cssselect==1.0.1
+get==0.0.0
+lxml==3.7.3
+packaging==16.8
+post==0.0.0
+public==0.0.0
+pyparsing==2.2.0
+pyquery==1.2.17
+query-string==0.0.0
+requests==2.13.0
+setupfiles==0.0.0
+six==1.10.0
