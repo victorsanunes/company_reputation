@@ -1,0 +1,7 @@
+python main.py --query "@AmericanAir" --since 2017-06-07 --until 2018-08-07 --max-tweets 500000
+python main.py --query "@Delta" --since 2017-06-07 --until 2018-08-07 --max-tweets 500000
+python main.py --query "@SouthwestAir" --since 2017-06-07 --until 2018-08-07 --max-tweets 500000
+python main.py --query "@British_Airways" --since 2017-06-07 --until 2018-08-07 --max-tweets 500000
+
+
+
