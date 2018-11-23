@@ -292,6 +292,7 @@ if __name__== '__main__':
         print("Processing " + path)
         # print('prediction_tweets/' + path)
         df = pd.read_csv('prediction_tweets/' + path, error_bad_lines=False)
-        preproc = PreProcessing(df, 'output/' + path.split('.')[0])
+        preproc = PreProcessing(df, 'prediction_tweets/' + path.split('.')[0])
         preproc.preprocessing()
         preproc.exportDataframe()
+       
